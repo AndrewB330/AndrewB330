@@ -1,7 +1,7 @@
 ### Maybe I will post something useful here... sometime 🙈
 
 💻 Currently working on [google/perfetto](https://github.com/google/perfetto) as an intern<br>
-🥳 Writing new post for Habr.com about Voronoi and Delaunay
+🥳 Writing new post for Habr.com about Voronoi and Delaunay<br>
 💭 Thinking on what to render or simulate next...<br>
 <br>
 <!--[![Generic badge](https://img.shields.io/badge/Username-AndrewB330-Brightgreen.svg)](https://github.com/AndrewB330/)-->
