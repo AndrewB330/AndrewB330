@@ -1,4 +1,4 @@
-### Working on a game! 
+### Working on a game! (Paused, lol)
 ![image](https://github.com/user-attachments/assets/3c4251a8-8e12-4163-84e8-219430b49242)
 
 <!--💭 <s>Thinking on what to render or simulate next... (Maybe 3d physics again?)<br></s>
