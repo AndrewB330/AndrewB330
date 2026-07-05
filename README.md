@@ -1,6 +1,8 @@
 ### Working on a game!
 ![image](https://github.com/user-attachments/assets/3c4251a8-8e12-4163-84e8-219430b49242)
+![image](https://github.com/user-attachments/assets/c82804a9-f656-4c89-a447-c55aae3e080b)
 ![image](https://github.com/user-attachments/assets/021e4c04-9d82-4bab-85a1-a41aca0a9237)
+
 
 <!--💭 <s>Thinking on what to render or simulate next... (Maybe 3d physics again?)<br></s>
 💡 [Teardown](https://store.steampowered.com/app/1167630/Teardown/) inspired me again! Voxel-based ray tracing one more time! <i>or even a game... ? </i><br>
